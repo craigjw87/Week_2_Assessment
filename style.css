@@ -1,0 +1,13 @@
+/*div {
+  background-color: #f2b705;
+}*/
+
+div {
+    background-color: yellow;
+    text-align: center;
+}
+.back-red { background-color: red; }
+
+totalClicks {
+  text-align: center;
+}
